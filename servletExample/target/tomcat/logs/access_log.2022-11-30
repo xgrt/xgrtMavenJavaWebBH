@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:30:02 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:31:45 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:31:52 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:33:07 +0800] "GET /servletExample/ HTTP/1.1" 200 36 http-bio-8080-exec-5 2962
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:33:17 +0800] "GET /servletExample/index.login HTTP/1.1" 404 1003 http-bio-8080-exec-8 8
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:33:37 +0800] "GET /servletExample/login.html HTTP/1.1" 200 766 http-bio-8080-exec-1 24
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:33:37 +0800] "GET /servletExample/css/login.css HTTP/1.1" 200 1468 http-bio-8080-exec-1 42
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:11:33:40 +0800] "GET /servletExample/imgs/Desert.jpg HTTP/1.1" 200 6664596 http-bio-8080-exec-1 2130

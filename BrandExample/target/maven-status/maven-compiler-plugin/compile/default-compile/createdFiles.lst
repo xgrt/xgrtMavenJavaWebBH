@@ -1,0 +1,17 @@
+org\xgrt\mapper\BrandMapper.class
+org\xgrt\util\SqlSessionFactoryUtils.class
+org\xgrt\web\LoginServlet.class
+org\xgrt\web\DeleteServlet.class
+org\xgrt\mapper\UserMapper.class
+org\xgrt\web\CheckCodeServlet.class
+org\xgrt\pojo\User.class
+org\xgrt\web\SelectByIdServlet.class
+org\xgrt\service\UserService.class
+org\xgrt\util\CheckCodeUtil.class
+org\xgrt\web\UpdateServlet.class
+org\xgrt\web\AddServlet.class
+org\xgrt\web\filter\LoginFilter.class
+org\xgrt\pojo\Brand.class
+org\xgrt\web\RegisterServlet.class
+org\xgrt\web\SelectAllServlet.class
+org\xgrt\service\BrandService.class

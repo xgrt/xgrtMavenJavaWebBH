@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BrandExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BrandExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CookieDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CookieDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FilterDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FilterDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSPDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSPDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVCExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVCExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mavenJavaWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mavenJavaWeb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mavenJavaWebWithArchetype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mavenJavaWebWithArchetype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servletExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servletExample/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

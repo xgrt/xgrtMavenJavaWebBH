@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2022:16:06:45 +0800] "GET /ServletDemo/req.jsp HTTP/1.1" 200 402 http-bio-8080-exec-3 2549
+0:0:0:0:0:0:0:1 - - [28/Nov/2022:16:06:50 +0800] "GET /ServletDemo/req4?name=%E5%B8%85%E9%91%AB&password= HTTP/1.1" 404 983 http-bio-8080-exec-5 10

@@ -1,0 +1,20 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <!--
+        Servlet 全类名
+  -->
+    <servlet>
+        <servlet-name>HttpServletDemo8</servlet-name>
+        <servlet-class>com.xgrt.servlet.HttpServletDemo8</servlet-class>
+    </servlet>
+    <!--    
+        Servlet 访问路径
+    -->
+    <servlet-mapping>
+        <servlet-name>HttpServletDemo8</servlet-name>
+        <url-pattern>/demo4</url-pattern>
+    </servlet-mapping>
+</web-app>

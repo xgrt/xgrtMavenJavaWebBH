@@ -1,0 +1,17 @@
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\pojo\Brand.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\DeleteServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\service\UserService.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\CheckCodeServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\UpdateServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\mapper\BrandMapper.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\util\CheckCodeUtil.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\pojo\User.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\service\BrandService.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\util\SqlSessionFactoryUtils.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\SelectAllServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\filter\LoginFilter.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\SelectByIdServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\AddServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\mapper\UserMapper.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\LoginServlet.java
+D:\java程序\javaMavenBlackHorse\mavenJavaWebBH\BrandExample\src\main\java\org\xgrt\web\RegisterServlet.java

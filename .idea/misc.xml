@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/BrandExample" />
+    <file type="web" url="file://$PROJECT_DIR$/CookieDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/FilterDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/JSPDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/mavenJavaWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/mavenJavaWebWithArchetype" />
+    <file type="web" url="file://$PROJECT_DIR$/MVCExample" />
+    <file type="web" url="file://$PROJECT_DIR$/ServletDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/servletExample" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mavenJavaWebWithArchetype/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenJavaWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/ServletDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/servletExample/pom.xml" />
+        <option value="$PROJECT_DIR$/reqAndRespExample/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/TotalExample/pom.xml" />
+        <option value="$PROJECT_DIR$/MVCExample/pom.xml" />
+        <option value="$PROJECT_DIR$/CookieDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/CookieAndSessionExample/pom.xml" />
+        <option value="$PROJECT_DIR$/FilterDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/BrandExample/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

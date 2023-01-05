@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MavenDemo" />
+        <module name="TotalExample" />
+        <module name="FilterDemo" />
+        <module name="ServletDemo" />
+        <module name="brand-demo" />
+        <module name="MVCExample" />
+        <module name="BrandExample" />
+        <module name="mavenJavaWebWithArchetype (2) (org.example1)" />
+        <module name="mavenJavaWebWithArchetype" />
+        <module name="CookieDemo" />
+        <module name="JSPDemo" />
+        <module name="mavenJavaWebWithArchetype (1) (org.example)" />
+        <module name="servletExample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mavenJavaWeb" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

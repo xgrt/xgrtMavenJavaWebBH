@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:39:35 +0800] "GET /mavenJavaWebWithArchetype HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:39:35 +0800] "GET /mavenJavaWebWithArchetype/ HTTP/1.1" 404 1003 http-bio-8080-exec-3 77
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:39:54 +0800] "GET /mavenJavaWebWithArchetype/aa.html HTTP/1.1" 200 155 http-bio-8080-exec-5 23
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:46:05 +0800] "GET /mavenJavaWebWithArchetype HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:46:05 +0800] "GET /mavenJavaWebWithArchetype/ HTTP/1.1" 404 1003 http-bio-8080-exec-3 41
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:50:31 +0800] "GET / HTTP/1.1" 404 951 http-bio-80-exec-1 157
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:50:32 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-3 4
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:50:48 +0800] "GET /aa.html HTTP/1.1" 200 155 http-bio-80-exec-5 17
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:51:20 +0800] "GET / HTTP/1.1" 404 951 http-bio-8011-exec-2 150
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:51:21 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8011-exec-3 4
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:51:50 +0800] "GET /aa.html HTTP/1.1" 302 - http-bio-8011-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:51:50 +0800] "GET /aa.html/ HTTP/1.1" 404 967 http-bio-8011-exec-3 43
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:53:18 +0800] "GET / HTTP/1.1" 404 951 http-bio-8011-exec-3 89
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:10:53:18 +0800] "GET /aa.html HTTP/1.1" 200 155 http-bio-8011-exec-1 175
